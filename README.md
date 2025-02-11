@@ -1,2 +1,2 @@
 # csufproject
- CSUF Project
+Welcome to HeroVerse!
